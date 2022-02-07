@@ -5,6 +5,9 @@
     background: rgb(189, 38, 38);
 }
 
+.bgcol {
+    background: rgb(83, 145, 160);
+}
 
 /* this is needed to make the content scrollable on larger screens */
 @media (min-width: 576px) {
