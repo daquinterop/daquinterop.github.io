@@ -102,10 +102,9 @@ footer {
     }
 }
 
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
     .sticky-top.bg-dark {
         height: auto !important;
-        /* min-height: 70px; Adjust this to your preferred header height */
         max-height: 70px;
     }
-}
+} */
